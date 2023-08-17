@@ -1,0 +1,1 @@
+import{j as o}from"./index-d541ce4b.js";function n({onAddToWishList:i,onRequestClose:s}){return o.jsxs("span",{children:["Deseja adicionar aos favoritos?",o.jsx("button",{onClick:i,children:"Sim"}),o.jsx("button",{onClick:s,children:"Não"})]})}export{n as default};
